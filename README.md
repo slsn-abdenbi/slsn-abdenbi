@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @slsn-abdenbi
+- 👀 I’m interested in Blockchain and AI
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on PHP (laravel/symfony) backend-js (Nodejs/Nestjs/express) front-js (Vuejs/Reactjs)
+- 📫 How to reach me : o.abdenbi@careplus.ma
